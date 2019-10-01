@@ -3,7 +3,9 @@
 library(ggplot2)
 
 #Set wd
-setwd()
+setwd(C:/User/rache/Desktop/ODresults)
 
 #Read data
-data <- read.csv
+data <- read.csv("thedata.csv")
+
+
